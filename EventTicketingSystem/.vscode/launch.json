@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Event Ticketing System",
+            "request": "launch",
+            "mainClass": "com.eventticketing.Main",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
